@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "763478660356",
+    "firebase_url": "https://bhooter-golpo.firebaseio.com",
+    "project_id": "bhooter-golpo",
+    "storage_bucket": "bhooter-golpo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763478660356:android:6165fb90a8610261",
+        "android_client_info": {
+          "package_name": "voiceofamerica.voiceofamerica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763478660356-1k758mmv70fg7e919j9iboh1p1ne5ih1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "voiceofamerica.voiceofamerica",
+            "certificate_hash": "8a070bb579dada83ef89e7452d80147f48213d21"
+          }
+        },
+        {
+          "client_id": "763478660356-2g97kg067mg930fvhkrb1hbpafufggsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg67aLOdN_o4XFe3Qu47xppE5DadnxTpA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763478660356-2g97kg067mg930fvhkrb1hbpafufggsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
